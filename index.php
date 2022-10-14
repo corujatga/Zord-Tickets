@@ -6,7 +6,7 @@
 <div class="card card-profile shadow">
     <div class="card-header">
  <div class="col-4">
-        <h5 class="h3 mb-0">{{__("Meus Tickets")}}</h5>
+        <h5 class="h3 mb-0">{{__("Bora fi do Billllll")}}</h5>
  </div>
  </div>
     <div class="card-body">
